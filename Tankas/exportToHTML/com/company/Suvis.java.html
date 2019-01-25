@@ -1,0 +1,68 @@
+<html>
+<head>
+<title>Suvis.java</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<style type="text/css">
+.s0 { color: #cc7832;}
+.s1 { color: #a9b7c6;}
+.s2 { color: #6a8759;}
+.s3 { color: #6897bb;}
+</style>
+</head>
+<body bgcolor="#2b2b2b">
+<table CELLSPACING=0 CELLPADDING=5 COLS=1 WIDTH="100%" BGCOLOR="#606060" >
+<tr><td><center>
+<font face="Arial, Helvetica" color="#000000">
+Suvis.java</font>
+</center></td></tr></table>
+<pre><span class="s0">package </span><span class="s1">com.company</span><span class="s0">;</span>
+
+public class <span class="s1">Suvis {</span>
+    <span class="s0">private static int </span><span class="s1">skSiaure</span><span class="s0">;</span>
+    private static int <span class="s1">skRytai</span><span class="s0">;</span>
+    private static int <span class="s1">skPietus</span><span class="s0">;</span>
+    private static int <span class="s1">skVakarai</span><span class="s0">;</span>
+
+    private <span class="s1">String suvioKryptis = </span><span class="s2">&quot;&quot;</span><span class="s0">;</span>
+
+    <span class="s1">Suvis(</span><span class="s0">int </span><span class="s1">kryptis){</span>
+        <span class="s0">if</span><span class="s1">(kryptis == </span><span class="s3">0</span><span class="s1">){</span>
+            <span class="s0">this</span><span class="s1">.suvioKryptis = </span><span class="s2">&quot;Siaure&quot;</span><span class="s0">;</span>
+            <span class="s1">skSiaure++</span><span class="s0">;</span>
+        <span class="s1">}</span>
+        <span class="s0">if</span><span class="s1">(kryptis == </span><span class="s3">1</span><span class="s1">){</span>
+            <span class="s0">this</span><span class="s1">.suvioKryptis = </span><span class="s2">&quot;Rytai&quot;</span><span class="s0">;</span>
+            <span class="s1">skRytai++</span><span class="s0">;</span>
+        <span class="s1">}</span>
+        <span class="s0">if</span><span class="s1">(kryptis == </span><span class="s3">2</span><span class="s1">){</span>
+            <span class="s0">this</span><span class="s1">.suvioKryptis = </span><span class="s2">&quot;Pietus&quot;</span><span class="s0">;</span>
+            <span class="s1">skPietus++</span><span class="s0">;</span>
+        <span class="s1">}</span>
+        <span class="s0">if</span><span class="s1">(kryptis == </span><span class="s3">3</span><span class="s1">){</span>
+            <span class="s0">this</span><span class="s1">.suvioKryptis = </span><span class="s2">&quot;Vakarai&quot;</span><span class="s0">;</span>
+            <span class="s1">skVakarai++</span><span class="s0">;</span>
+        <span class="s1">}</span>
+    }
+
+    <span class="s0">public static int </span><span class="s1">getSkSiaure() {</span>
+        <span class="s0">return </span><span class="s1">skSiaure</span><span class="s0">;</span>
+    <span class="s1">}</span>
+
+    <span class="s0">public static int </span><span class="s1">getSkRytai() {</span>
+        <span class="s0">return </span><span class="s1">skRytai</span><span class="s0">;</span>
+    <span class="s1">}</span>
+
+    <span class="s0">public static int </span><span class="s1">getSkPietus() {</span>
+        <span class="s0">return </span><span class="s1">skPietus</span><span class="s0">;</span>
+    <span class="s1">}</span>
+
+    <span class="s0">public static int </span><span class="s1">getSkVakarai() {</span>
+        <span class="s0">return </span><span class="s1">skVakarai</span><span class="s0">;</span>
+    <span class="s1">}</span>
+    <span class="s0">public int </span><span class="s1">isVisoSuviu(){</span>
+        <span class="s0">return </span><span class="s1">skVakarai+skRytai+skSiaure+skPietus</span><span class="s0">;</span>
+    <span class="s1">}</span>
+}
+</pre>
+</body>
+</html>
