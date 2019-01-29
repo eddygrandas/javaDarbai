@@ -1,11 +1,15 @@
 Polimorfizmo uþduotys
+
 Sukurkite abstrakèià klasæ Person su laukais personalID, name, gender
 Sukurkite abstrakèià klasæ PrivatePerson kurá paveldëtø klasæ Person, ir turëtø abstrakèius metodus, getEmploymentStatus();
 Sukurkite klases EmployedPerson ir UnemployedPerson kurios pavaldëtø PrivatePerson klasæ ir ágyvendintø abstrakèius metodus
 Pridëkite PrivatePerson statiná metodà, kuris pagal nurodytus parametrus sukurtø EmployedPerson arba UnemployedPerson
-Sukurkite klasæ LegalPerson kuri paveldëtø Person klasæ. Kvieèiant metodà getGender() turëtø bûti metama UnsupportedOperationException, kadangi juridiniai asmenys neturi lyties.
-Sukurkite klasæ PersonRepository, kuri turëtø ðá statiná metodà: List<Person> getPersons(). Ðis metodas turëtø gràþinti visø potipiø Person objektø pavyzdþius.
-Sukurkite klasæ PersonFacade kuri turëtø ðiuos metodus: List<PrivatePerson > getPrivatePersons(), List<LegalPerson> getLegalPersons(). Ðie metodai turëtø kviesti getPersons metodà, filtruoti gautus duomenis pagal reikalingus potipius ir gràþinti rezultatà.
+Sukurkite klasæ LegalPerson kuri paveldëtø Person klasæ. Kvieèiant metodà getGender() turëtø bûti metama UnsupportedOperationException,
+kadangi juridiniai asmenys neturi lyties.
+Sukurkite klasæ PersonRepository, kuri turëtø ðá statiná metodà: List<Person> getPersons(). Ðis metodas turëtø gràþinti
+visø potipiø Person objektø pavyzdþius.
+Sukurkite klasæ PersonFacade kuri turëtø ðiuos metodus: List<PrivatePerson > getPrivatePersons(), List<LegalPerson> getLegalPersons().
+Ðie metodai turëtø kviesti getPersons metodà, filtruoti gautus duomenis pagal reikalingus potipius ir gràþinti rezultatà.
 Sukurkite sàsajà Employee, kuri turëtø metodus int getSalary() ir String getEmployerName()
 EmployedPerson turëtø ágyvendinti Employee sàsajà
 Sukurkite sàsajà Employer, kuri turëtø metodus int getRevenue() ir List<Employee getEmployees()`
@@ -13,10 +17,18 @@ PrivatPerson klasë turëtø ágyvendinti sàsajà Employer
 Sukurkite sàsajà WorkplaceService su ðiais metodais: List<Employers> getEmployers(), List<Employees> getEmployees()
 Tegul PersonFacade ágyvendina WorkplaceService sàsajà. Ágyvendinimui panaudokite jau esamus PersonFacade metodus.
 Sukurkite klasæ EmployersStatisticsService, kurios konstruktorius priimtø parametrà WorkplaceService
-EmployersStatisticsService klasë turëtø pateikti ðiuos metodus: List<Employee> getProfitableOrganizations() ir List<Employee> getUnprofitableOrganizations()
-Sukurkite sàsajà PersonEmploymentService kuri turëtø metodus List<UnemployedPerson> unemployedPersons() ir List<EmployedPerson> employedPersons()
+EmployersStatisticsService klasë turëtø pateikti ðiuos metodus: List<Employee> getProfitableOrganizations() ir
+List<Employee> getUnprofitableOrganizations()
+Sukurkite sàsajà PersonEmploymentService kuri turëtø metodus List<UnemployedPerson> unemployedPersons() ir
+List<EmployedPerson> employedPersons()
 PersonFacade turëtø ágyvendinti PersonEmploymentService
-Sukurkite klasæ UnemploymentStatisticsService kuri priimtø kaip parametrà PersonEmploymentService klasæ ir turëtø ðiuos metodus: int employedPersons(). int unEmployedPersons()
-PersonFacade klasë tapo atsakinga uþ labai daug funkcijø. Pabandykite pagal biznio logikà iðskaidyti PersonFacade funkcijas á skirtingas klases, kurios ágyvendintø reikalingas sàsajas ir naudotø PersonFacade reikalingiems dëmenims gauti.
-Sukurkite statiná metodà printPerson, kuriam paduodamas Person objektas ir jo reikðmës yra iðspausdinamos konsolëje. Metodas turëtø dinamiðkai prisitaikyti prie objekto potipiø ir atitinkamai spausdinti potipiui bûdingus laukus. Naudokite ðá metodà rezultatams iðvesti.
-Padarykite programà efektyvesnæ, ágyvendindami talpyklà (cache) PersonFacade klasëje. Talpykla veiktø taip, kad PersonFacade metodø rezultatai kurá laikà bûtø saugomi PersonFacade klasëje ir skaièiavimai vyktø tik praëjus tam tikram laiko tarpui, kai saugomi áraðai tampa nebeaktualûs.
+Sukurkite klasæ UnemploymentStatisticsService kuri priimtø kaip parametrà PersonEmploymentService klasæ ir turëtø ðiuos
+metodus: int employedPersons(). int unEmployedPersons()
+PersonFacade klasë tapo atsakinga uþ labai daug funkcijø. Pabandykite pagal biznio logikà iðskaidyti PersonFacade
+funkcijas á skirtingas klases, kurios ágyvendintø reikalingas sàsajas ir naudotø PersonFacade reikalingiems dëmenims gauti.
+Sukurkite statiná metodà printPerson, kuriam paduodamas Person objektas ir jo reikðmës yra iðspausdinamos konsolëje.
+Metodas turëtø dinamiðkai prisitaikyti prie objekto potipiø ir atitinkamai spausdinti potipiui bûdingus laukus.
+Naudokite ðá metodà rezultatams iðvesti.
+Padarykite programà efektyvesnæ, ágyvendindami talpyklà (cache) PersonFacade klasëje. Talpykla veiktø taip, kad
+PersonFacade metodø rezultatai kurá laikà bûtø saugomi PersonFacade klasëje ir skaièiavimai vyktø tik praëjus tam tikram
+laiko tarpui, kai saugomi áraðai tampa nebeaktualûs.
