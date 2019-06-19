@@ -21,8 +21,5 @@ public class Main extends Device{
         devices.get(3).setOn(false);
         monitoring.pingAllDevices(devices);
 
-
-
-
     }
 }

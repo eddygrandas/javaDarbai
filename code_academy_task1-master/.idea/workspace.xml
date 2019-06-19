@@ -1,0 +1,398 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1b2c4677-d00e-417f-a0a8-6bb43a58d0ac" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Files/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Files/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Files/src/com/company/Payments.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Files/src/com/company/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Files/src/com/company/payments" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Files/src/com/company/person" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Generics1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Generics2/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Generics2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Generics2/src/com/company/Azuolas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Generics2/src/com/company/Berzas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Generics2/src/com/company/Egle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Generics2/src/com/company/Generics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Generics2/src/com/company/Kadagys.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Generics2/src/com/company/Lapuotis.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Generics2/src/com/company/Medis.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Generics2/src/com/company/Pusis.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Generics2/src/com/company/Spygliuotis.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Maven/.idea/artifacts/Maven_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Maven/.idea/libraries/name_machine_1_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Maven/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Maven/src/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Maven/src/Maven.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PVM/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PVM/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PVM/src/Go.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PVM/src/PakeistasPvmValidatorius.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PVM/src/PvmValidatorius.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../accsess modifiers/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../accsess modifiers/src/com/company/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../accsess modifiers/src/comp2/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../accsess modifiers/src/comp2/C.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../accsess modifiers/src/comp2/D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_protobuf_protobuf_java_3_6_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_8_0_15.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_edge_SNAPSHOT.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TaskOne.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../duombaze/src/com/practice/controller/PersonController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../duombaze/src/com/practice/controller/service/DatabaseService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../duombaze/src/com/practice/controller/service/FileReaderService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../duombaze/src/com/practice/model/person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../faker/.idea/artifacts/faker_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../faker/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../faker/.idea/libraries/javafaker_0_17_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../faker/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../faker/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../faker/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../faker/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../faker/faker.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../faker/src/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../faker/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fakerMaven/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fakerMaven/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fakerMaven/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fakerMaven/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fakerMaven/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fakerMaven/fakerMaven.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fakerMaven/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fakerMaven/src/main/java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate/src/main/resources/hibernate.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kartojimo/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kartojimo/src/com/company/Konv.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kartojimo/src/com/company/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kazkasbus/.idea/artifacts/kazkasbus_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kazkasbus/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kazkasbus/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pavarom/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pavarom/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pavarom/src/main/java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../stream-example/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../strem and lambdas/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../strem and lambdas/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../threads/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../threads/src/com/company/Kitas.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exceptions/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Exceptions/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exceptions2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Exceptions2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exceptions3/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Exceptions3/src/com/company/Main.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/practice/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/sql/person.sql" />
+        <option value="$PROJECT_DIR$/src/main/java/com/practice/controller/service/DatabaseService.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="TaskOne" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-7" />
+    <option name="width" value="1201" />
+    <option name="height" value="1087" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="TaskOne" type="b2602c69:ProjectViewProjectNode" />
+              <item name="code_academy_task1-master" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TaskOne" type="b2602c69:ProjectViewProjectNode" />
+              <item name="code_academy_task1-master" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TaskOne" type="b2602c69:ProjectViewProjectNode" />
+              <item name="code_academy_task1-master" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TaskOne" type="b2602c69:ProjectViewProjectNode" />
+              <item name="code_academy_task1-master" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TaskOne" type="b2602c69:ProjectViewProjectNode" />
+              <item name="code_academy_task1-master" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="practice" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TaskOne" type="b2602c69:ProjectViewProjectNode" />
+              <item name="code_academy_task1-master" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="practice" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TaskOne" type="b2602c69:ProjectViewProjectNode" />
+              <item name="code_academy_task1-master" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="practice" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TaskOne" type="b2602c69:ProjectViewProjectNode" />
+              <item name="code_academy_task1-master" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="practice" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TaskOne" type="b2602c69:ProjectViewProjectNode" />
+              <item name="code_academy_task1-master" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TaskOne" type="b2602c69:ProjectViewProjectNode" />
+              <item name="code_academy_task1-master" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="sql" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TaskOne" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552589593657" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../hibernate" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.practice.Main" />
+      <module name="TaskOne" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1b2c4677-d00e-417f-a0a8-6bb43a58d0ac" name="Default Changelist" comment="" />
+      <created>1552588105488</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1552588105488</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.072" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Learn" order="6" />
+      <window_info id="Favorites" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32936078" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32936078" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" visible="true" weight="0.087466665" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Key Promoter X" order="8" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1099" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="35" lean-forward="true" selection-start-line="12" selection-start-column="35" selection-end-line="12" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/practice/controller/service/DatabaseService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="17" column="26" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/phone_num.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/sql/person.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="2" selection-start-line="5" selection-start-column="2" selection-end-line="5" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/sql/employee.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/practice/model/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/practice/controller/PersonController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/practice/controller/service/FileReaderService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/persons.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/practice/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="113" lean-forward="true" selection-start-line="10" selection-start-column="113" selection-end-line="10" selection-end-column="113" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

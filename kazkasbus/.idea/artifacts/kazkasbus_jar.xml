@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact name="kazkasbus:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/kazkasbus_jar</output-path>
+    <root id="root">
+      <element id="archive" name="kazkasbus.jar">
+        <element id="module-output" name="kazkasbus" />
+      </element>
+    </root>
+  </artifact>
+</component>

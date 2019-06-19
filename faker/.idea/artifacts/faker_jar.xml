@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="faker:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/faker_jar</output-path>
+    <root id="archive" name="faker.jar">
+      <element id="module-output" name="faker" />
+      <element id="extracted-dir" path="F:/Downloads/javafaker-0.17.1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
